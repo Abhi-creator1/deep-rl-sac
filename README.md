@@ -95,10 +95,10 @@ $$
 ## 📊 Results
 
 ### Distance to Target
-![Distance Plot](Figure_1.png)
+![Distance Plot](results/Figure_1.png)
 
 ### Success Rate
-![Success Plot](Figure_2.png)
+![Success Plot](results/Figure_2.png)
 
 ### Observations
 - Initial exploration phase with high variance
