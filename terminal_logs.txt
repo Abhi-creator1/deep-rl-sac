@@ -1,0 +1,986 @@
+(venv) PS D:\PROJECTS\ROBOTS\rl_robot> python -m training.train
+pybullet build time: Mar 19 2026 15:33:43
+Ep 0 | Dist: 0.7110 | Success: False | Diff: 0
+Ep 1 | Dist: 0.8069 | Success: False | Diff: 0
+Ep 2 | Dist: 0.9324 | Success: False | Diff: 0
+Ep 3 | Dist: 1.1307 | Success: False | Diff: 0
+Ep 4 | Dist: 1.0430 | Success: False | Diff: 0
+Ep 5 | Dist: 0.7979 | Success: False | Diff: 0
+Ep 6 | Dist: 0.9998 | Success: False | Diff: 0
+Ep 7 | Dist: 1.2146 | Success: False | Diff: 0
+Ep 8 | Dist: 0.6811 | Success: False | Diff: 0
+Ep 9 | Dist: 1.1977 | Success: False | Diff: 0
+Ep 10 | Dist: 0.7374 | Success: False | Diff: 0
+Ep 11 | Dist: 1.0274 | Success: False | Diff: 0
+Ep 12 | Dist: 0.4708 | Success: False | Diff: 0
+Ep 13 | Dist: 0.6085 | Success: False | Diff: 0
+Ep 14 | Dist: 0.8278 | Success: False | Diff: 0
+Ep 15 | Dist: 0.9030 | Success: False | Diff: 0
+Ep 16 | Dist: 0.4481 | Success: False | Diff: 0
+Ep 17 | Dist: 0.3240 | Success: False | Diff: 0
+Ep 18 | Dist: 0.5715 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 19 | Dist: 0.5242 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 20 | Dist: 0.6799 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 21 | Dist: 0.5416 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 22 | Dist: 0.4544 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 23 | Dist: 0.5943 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 24 | Dist: 0.6008 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 25 | Dist: 0.6568 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 26 | Dist: 0.5877 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 27 | Dist: 0.5394 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 28 | Dist: 0.5340 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 29 | Dist: 0.5924 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 30 | Dist: 0.5279 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 31 | Dist: 0.5427 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 32 | Dist: 0.5507 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 33 | Dist: 0.5598 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 34 | Dist: 0.5733 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 35 | Dist: 0.5519 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 36 | Dist: 0.5550 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 37 | Dist: 0.5659 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 38 | Dist: 0.5108 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 39 | Dist: 0.5822 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 40 | Dist: 0.5412 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 41 | Dist: 0.5445 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 42 | Dist: 0.6501 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 43 | Dist: 0.6423 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 44 | Dist: 0.6673 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 45 | Dist: 0.6230 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 46 | Dist: 0.8127 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 47 | Dist: 0.8417 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 48 | Dist: 0.6717 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 49 | Dist: 0.6954 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 50 | Dist: 0.6753 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 51 | Dist: 0.6445 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 52 | Dist: 0.5618 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 53 | Dist: 0.5726 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 54 | Dist: 0.5653 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 55 | Dist: 0.5195 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 56 | Dist: 0.5238 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 57 | Dist: 0.4935 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 58 | Dist: 0.4561 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 59 | Dist: 0.4650 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 60 | Dist: 0.4105 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 61 | Dist: 0.4326 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 62 | Dist: 0.4031 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 63 | Dist: 0.4033 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 64 | Dist: 0.4091 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 65 | Dist: 0.3616 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 66 | Dist: 0.4401 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 67 | Dist: 0.4311 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 68 | Dist: 0.4200 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 69 | Dist: 0.4020 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 70 | Dist: 0.2893 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 71 | Dist: 0.2138 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 72 | Dist: 0.1217 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 73 | Dist: 0.2405 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 74 | Dist: 0.2894 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 75 | Dist: 0.3103 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 76 | Dist: 0.3447 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 77 | Dist: 0.2814 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 78 | Dist: 0.2967 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 79 | Dist: 0.2088 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 80 | Dist: 0.2544 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 81 | Dist: 0.2239 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 82 | Dist: 0.2047 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 83 | Dist: 0.2079 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 84 | Dist: 0.2343 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 85 | Dist: 0.2198 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 86 | Dist: 0.2441 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 87 | Dist: 0.2327 | Success: False | Diff: 0
+Success rate (last 20): 0.00
+Ep 88 | Dist: 0.2487 | Success: False | Diff: 0
+Success rate (last 20): 0.05
+Ep 89 | Dist: 0.0663 | Success: True | Diff: 0
+Success rate (last 20): 0.05
+Ep 90 | Dist: 0.1590 | Success: False | Diff: 0
+Success rate (last 20): 0.05
+Ep 91 | Dist: 0.1253 | Success: False | Diff: 0
+Success rate (last 20): 0.10
+Ep 92 | Dist: 0.0683 | Success: True | Diff: 0
+Success rate (last 20): 0.15
+Ep 93 | Dist: 0.0678 | Success: True | Diff: 0
+Success rate (last 20): 0.15
+Ep 94 | Dist: 0.1387 | Success: False | Diff: 0
+Success rate (last 20): 0.20
+Ep 95 | Dist: 0.0686 | Success: True | Diff: 0
+Success rate (last 20): 0.25
+Ep 96 | Dist: 0.0670 | Success: True | Diff: 0
+Success rate (last 20): 0.30
+Ep 97 | Dist: 0.0692 | Success: True | Diff: 0
+Success rate (last 20): 0.30
+Ep 98 | Dist: 0.1265 | Success: False | Diff: 0
+Success rate (last 20): 0.30
+Ep 99 | Dist: 0.1422 | Success: False | Diff: 0
+Success rate (last 20): 0.30
+Ep 100 | Dist: 0.1208 | Success: False | Diff: 0
+Success rate (last 20): 0.35
+Ep 101 | Dist: 0.0699 | Success: True | Diff: 0
+Success rate (last 20): 0.40
+Ep 102 | Dist: 0.0691 | Success: True | Diff: 0
+Success rate (last 20): 0.45
+Ep 103 | Dist: 0.0687 | Success: True | Diff: 0
+Success rate (last 20): 0.45
+Ep 104 | Dist: 0.1545 | Success: False | Diff: 0
+Success rate (last 20): 0.45
+Ep 105 | Dist: 0.1434 | Success: False | Diff: 0
+Success rate (last 20): 0.50
+Ep 106 | Dist: 0.0697 | Success: True | Diff: 0
+⬆️ Difficulty increased to MEDIUM
+Success rate (last 20): 0.55
+Ep 107 | Dist: 0.0682 | Success: True | Diff: 1
+Success rate (last 20): 0.55
+Ep 108 | Dist: 0.2077 | Success: False | Diff: 1
+Success rate (last 20): 0.50
+Ep 109 | Dist: 0.2672 | Success: False | Diff: 1
+Success rate (last 20): 0.50
+Ep 110 | Dist: 0.2108 | Success: False | Diff: 1
+Success rate (last 20): 0.55
+Ep 111 | Dist: 0.0689 | Success: True | Diff: 1
+Success rate (last 20): 0.50
+Ep 112 | Dist: 0.2654 | Success: False | Diff: 1
+Success rate (last 20): 0.45
+Ep 113 | Dist: 0.2079 | Success: False | Diff: 1
+Success rate (last 20): 0.45
+Ep 114 | Dist: 0.2562 | Success: False | Diff: 1
+Success rate (last 20): 0.40
+Ep 115 | Dist: 0.1866 | Success: False | Diff: 1
+Success rate (last 20): 0.35
+Ep 116 | Dist: 0.1887 | Success: False | Diff: 1
+Success rate (last 20): 0.30
+Ep 117 | Dist: 0.1375 | Success: False | Diff: 1
+Success rate (last 20): 0.30
+Ep 118 | Dist: 0.1625 | Success: False | Diff: 1
+Success rate (last 20): 0.35
+Ep 119 | Dist: 0.0633 | Success: True | Diff: 1
+Success rate (last 20): 0.40
+Ep 120 | Dist: 0.0693 | Success: True | Diff: 1
+Success rate (last 20): 0.35
+Ep 121 | Dist: 0.1329 | Success: False | Diff: 1
+Success rate (last 20): 0.30
+Ep 122 | Dist: 0.1757 | Success: False | Diff: 1
+Success rate (last 20): 0.25
+Ep 123 | Dist: 0.1286 | Success: False | Diff: 1
+Success rate (last 20): 0.25
+Ep 124 | Dist: 0.1856 | Success: False | Diff: 1
+Success rate (last 20): 0.25
+Ep 125 | Dist: 0.1470 | Success: False | Diff: 1
+Success rate (last 20): 0.20
+Ep 126 | Dist: 0.2296 | Success: False | Diff: 1
+Success rate (last 20): 0.15
+Ep 127 | Dist: 0.1934 | Success: False | Diff: 1
+Success rate (last 20): 0.15
+Ep 128 | Dist: 0.1667 | Success: False | Diff: 1
+Success rate (last 20): 0.15
+Ep 129 | Dist: 0.2497 | Success: False | Diff: 1
+Success rate (last 20): 0.15
+Ep 130 | Dist: 0.1481 | Success: False | Diff: 1
+Success rate (last 20): 0.10
+Ep 131 | Dist: 0.1772 | Success: False | Diff: 1
+Success rate (last 20): 0.10
+Ep 132 | Dist: 0.1918 | Success: False | Diff: 1
+Success rate (last 20): 0.15
+Ep 133 | Dist: 0.0677 | Success: True | Diff: 1
+Success rate (last 20): 0.20
+Ep 134 | Dist: 0.0668 | Success: True | Diff: 1
+Success rate (last 20): 0.25
+Ep 135 | Dist: 0.0657 | Success: True | Diff: 1
+Success rate (last 20): 0.25
+Ep 136 | Dist: 0.1547 | Success: False | Diff: 1
+Success rate (last 20): 0.30
+Ep 137 | Dist: 0.0665 | Success: True | Diff: 1
+Success rate (last 20): 0.35
+Ep 138 | Dist: 0.0692 | Success: True | Diff: 1
+Success rate (last 20): 0.30
+Ep 139 | Dist: 0.1042 | Success: False | Diff: 1
+Success rate (last 20): 0.25
+Ep 140 | Dist: 0.1215 | Success: False | Diff: 1
+Success rate (last 20): 0.30
+Ep 141 | Dist: 0.0669 | Success: True | Diff: 1
+Success rate (last 20): 0.35
+Ep 142 | Dist: 0.0683 | Success: True | Diff: 1
+Success rate (last 20): 0.40
+Ep 143 | Dist: 0.0698 | Success: True | Diff: 1
+Success rate (last 20): 0.40
+Ep 144 | Dist: 0.1570 | Success: False | Diff: 1
+Success rate (last 20): 0.45
+Ep 145 | Dist: 0.0670 | Success: True | Diff: 1
+Success rate (last 20): 0.45
+Ep 146 | Dist: 0.1358 | Success: False | Diff: 1
+Success rate (last 20): 0.45
+Ep 147 | Dist: 0.1293 | Success: False | Diff: 1
+Success rate (last 20): 0.45
+Ep 148 | Dist: 0.1464 | Success: False | Diff: 1
+Success rate (last 20): 0.45
+Ep 149 | Dist: 0.1796 | Success: False | Diff: 1
+Success rate (last 20): 0.50
+Ep 150 | Dist: 0.0683 | Success: True | Diff: 1
+Success rate (last 20): 0.55
+Ep 151 | Dist: 0.0659 | Success: True | Diff: 1
+Success rate (last 20): 0.60
+Ep 152 | Dist: 0.0696 | Success: True | Diff: 1
+Success rate (last 20): 0.60
+Ep 153 | Dist: 0.0684 | Success: True | Diff: 1
+Success rate (last 20): 0.60
+Ep 154 | Dist: 0.0646 | Success: True | Diff: 1
+Success rate (last 20): 0.55
+Ep 155 | Dist: 0.1244 | Success: False | Diff: 1
+Success rate (last 20): 0.55
+Ep 156 | Dist: 0.1468 | Success: False | Diff: 1
+Success rate (last 20): 0.55
+Ep 157 | Dist: 0.0685 | Success: True | Diff: 1
+Success rate (last 20): 0.55
+Ep 158 | Dist: 0.0688 | Success: True | Diff: 1
+Success rate (last 20): 0.60
+Ep 159 | Dist: 0.0666 | Success: True | Diff: 1
+⬆️ Difficulty increased to HARD
+Success rate (last 20): 0.65
+Ep 160 | Dist: 0.0648 | Success: True | Diff: 2
+Success rate (last 20): 0.60
+Ep 161 | Dist: 0.1439 | Success: False | Diff: 2
+Success rate (last 20): 0.55
+Ep 162 | Dist: 0.2380 | Success: False | Diff: 2
+Success rate (last 20): 0.50
+Ep 163 | Dist: 0.5202 | Success: False | Diff: 2
+Success rate (last 20): 0.55
+Ep 164 | Dist: 0.0684 | Success: True | Diff: 2
+Success rate (last 20): 0.50
+Ep 165 | Dist: 0.1396 | Success: False | Diff: 2
+Success rate (last 20): 0.55
+Ep 166 | Dist: 0.0691 | Success: True | Diff: 2
+Success rate (last 20): 0.55
+Ep 167 | Dist: 0.5930 | Success: False | Diff: 2
+Success rate (last 20): 0.60
+Ep 168 | Dist: 0.0657 | Success: True | Diff: 2
+Success rate (last 20): 0.60
+Ep 169 | Dist: 0.4538 | Success: False | Diff: 2
+Success rate (last 20): 0.55
+Ep 170 | Dist: 0.4711 | Success: False | Diff: 2
+Success rate (last 20): 0.50
+Ep 171 | Dist: 0.2424 | Success: False | Diff: 2
+Success rate (last 20): 0.45
+Ep 172 | Dist: 0.5894 | Success: False | Diff: 2
+Success rate (last 20): 0.40
+Ep 173 | Dist: 0.3849 | Success: False | Diff: 2
+Success rate (last 20): 0.40
+Ep 174 | Dist: 0.0694 | Success: True | Diff: 2
+Success rate (last 20): 0.40
+Ep 175 | Dist: 0.1707 | Success: False | Diff: 2
+Success rate (last 20): 0.40
+Ep 176 | Dist: 0.4454 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 177 | Dist: 0.1410 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 178 | Dist: 0.3678 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 179 | Dist: 0.1620 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 180 | Dist: 0.4155 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 181 | Dist: 0.1246 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 182 | Dist: 0.2266 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 183 | Dist: 0.5204 | Success: False | Diff: 2
+Success rate (last 20): 0.15
+Ep 184 | Dist: 0.3379 | Success: False | Diff: 2
+Success rate (last 20): 0.15
+Ep 185 | Dist: 0.2155 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 186 | Dist: 0.3338 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 187 | Dist: 0.1000 | Success: False | Diff: 2
+Success rate (last 20): 0.05
+Ep 188 | Dist: 0.2700 | Success: False | Diff: 2
+Success rate (last 20): 0.05
+Ep 189 | Dist: 0.2045 | Success: False | Diff: 2
+Success rate (last 20): 0.05
+Ep 190 | Dist: 0.5004 | Success: False | Diff: 2
+Success rate (last 20): 0.05
+Ep 191 | Dist: 0.1049 | Success: False | Diff: 2
+Success rate (last 20): 0.05
+Ep 192 | Dist: 0.2060 | Success: False | Diff: 2
+Success rate (last 20): 0.05
+Ep 193 | Dist: 0.1748 | Success: False | Diff: 2
+Success rate (last 20): 0.00
+Ep 194 | Dist: 0.2965 | Success: False | Diff: 2
+Success rate (last 20): 0.00
+Ep 195 | Dist: 0.2494 | Success: False | Diff: 2
+Success rate (last 20): 0.00
+Ep 196 | Dist: 0.1294 | Success: False | Diff: 2
+Success rate (last 20): 0.00
+Ep 197 | Dist: 0.1254 | Success: False | Diff: 2
+Success rate (last 20): 0.00
+Ep 198 | Dist: 0.4870 | Success: False | Diff: 2
+Success rate (last 20): 0.00
+Ep 199 | Dist: 0.1708 | Success: False | Diff: 2
+Success rate (last 20): 0.00
+Ep 200 | Dist: 0.2943 | Success: False | Diff: 2
+Success rate (last 20): 0.00
+Ep 201 | Dist: 0.2149 | Success: False | Diff: 2
+Success rate (last 20): 0.00
+Ep 202 | Dist: 0.2508 | Success: False | Diff: 2
+Success rate (last 20): 0.00
+Ep 203 | Dist: 0.1963 | Success: False | Diff: 2
+Success rate (last 20): 0.00
+Ep 204 | Dist: 0.2905 | Success: False | Diff: 2
+Success rate (last 20): 0.00
+Ep 205 | Dist: 0.2567 | Success: False | Diff: 2
+Success rate (last 20): 0.00
+Ep 206 | Dist: 0.5445 | Success: False | Diff: 2
+Success rate (last 20): 0.00
+Ep 207 | Dist: 0.1208 | Success: False | Diff: 2
+Success rate (last 20): 0.00
+Ep 208 | Dist: 0.6143 | Success: False | Diff: 2
+Success rate (last 20): 0.05
+Ep 209 | Dist: 0.0679 | Success: True | Diff: 2
+Success rate (last 20): 0.05
+Ep 210 | Dist: 0.2735 | Success: False | Diff: 2
+Success rate (last 20): 0.05
+Ep 211 | Dist: 0.1022 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 212 | Dist: 0.0698 | Success: True | Diff: 2
+Success rate (last 20): 0.15
+Ep 213 | Dist: 0.0692 | Success: True | Diff: 2
+Success rate (last 20): 0.20
+Ep 214 | Dist: 0.0694 | Success: True | Diff: 2
+Success rate (last 20): 0.20
+Ep 215 | Dist: 0.0840 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 216 | Dist: 0.0885 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 217 | Dist: 0.1416 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 218 | Dist: 0.1939 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 219 | Dist: 0.1531 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 220 | Dist: 0.1270 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 221 | Dist: 0.0691 | Success: True | Diff: 2
+Success rate (last 20): 0.30
+Ep 222 | Dist: 0.0700 | Success: True | Diff: 2
+Success rate (last 20): 0.35
+Ep 223 | Dist: 0.0693 | Success: True | Diff: 2
+Success rate (last 20): 0.35
+Ep 224 | Dist: 0.7861 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 225 | Dist: 0.1606 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 226 | Dist: 0.7131 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 227 | Dist: 0.5654 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 228 | Dist: 0.5154 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 229 | Dist: 0.1340 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 230 | Dist: 0.3394 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 231 | Dist: 0.2300 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 232 | Dist: 0.2673 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 233 | Dist: 0.5478 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 234 | Dist: 0.0698 | Success: True | Diff: 2
+Success rate (last 20): 0.20
+Ep 235 | Dist: 0.2590 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 236 | Dist: 0.2020 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 237 | Dist: 0.4775 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 238 | Dist: 0.6249 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 239 | Dist: 0.0672 | Success: True | Diff: 2
+Success rate (last 20): 0.25
+Ep 240 | Dist: 0.1701 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 241 | Dist: 0.4101 | Success: False | Diff: 2
+Success rate (last 20): 0.15
+Ep 242 | Dist: 0.1138 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 243 | Dist: 0.1717 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 244 | Dist: 0.2291 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 245 | Dist: 0.1977 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 246 | Dist: 0.1629 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 247 | Dist: 0.1886 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 248 | Dist: 0.2955 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 249 | Dist: 0.4578 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 250 | Dist: 0.1822 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 251 | Dist: 0.2088 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 252 | Dist: 0.3221 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 253 | Dist: 0.1504 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 254 | Dist: 0.0652 | Success: True | Diff: 2
+Success rate (last 20): 0.10
+Ep 255 | Dist: 0.1932 | Success: False | Diff: 2
+Success rate (last 20): 0.15
+Ep 256 | Dist: 0.0696 | Success: True | Diff: 2
+Success rate (last 20): 0.15
+Ep 257 | Dist: 0.4407 | Success: False | Diff: 2
+Success rate (last 20): 0.15
+Ep 258 | Dist: 0.4394 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 259 | Dist: 0.2312 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 260 | Dist: 0.2338 | Success: False | Diff: 2
+Success rate (last 20): 0.10
+Ep 261 | Dist: 0.1078 | Success: False | Diff: 2
+Success rate (last 20): 0.15
+Ep 262 | Dist: 0.0679 | Success: True | Diff: 2
+Success rate (last 20): 0.15
+Ep 263 | Dist: 0.3447 | Success: False | Diff: 2
+Success rate (last 20): 0.15
+Ep 264 | Dist: 0.2206 | Success: False | Diff: 2
+Success rate (last 20): 0.15
+Ep 265 | Dist: 0.4094 | Success: False | Diff: 2
+Success rate (last 20): 0.15
+Ep 266 | Dist: 0.3670 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 267 | Dist: 0.0658 | Success: True | Diff: 2
+Success rate (last 20): 0.20
+Ep 268 | Dist: 0.1390 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 269 | Dist: 0.2671 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 270 | Dist: 0.0647 | Success: True | Diff: 2
+Success rate (last 20): 0.30
+Ep 271 | Dist: 0.0683 | Success: True | Diff: 2
+Success rate (last 20): 0.35
+Ep 272 | Dist: 0.0677 | Success: True | Diff: 2
+Success rate (last 20): 0.35
+Ep 273 | Dist: 0.3629 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 274 | Dist: 0.2357 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 275 | Dist: 0.1924 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 276 | Dist: 0.2863 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 277 | Dist: 0.0693 | Success: True | Diff: 2
+Success rate (last 20): 0.30
+Ep 278 | Dist: 0.1855 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 279 | Dist: 0.1681 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 280 | Dist: 0.1497 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 281 | Dist: 0.1647 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 282 | Dist: 0.0654 | Success: True | Diff: 2
+Success rate (last 20): 0.30
+Ep 283 | Dist: 0.1584 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 284 | Dist: 0.0912 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 285 | Dist: 0.1151 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 286 | Dist: 0.1372 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 287 | Dist: 0.0697 | Success: True | Diff: 2
+Success rate (last 20): 0.30
+Ep 288 | Dist: 0.1298 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 289 | Dist: 0.0687 | Success: True | Diff: 2
+Success rate (last 20): 0.35
+Ep 290 | Dist: 0.0693 | Success: True | Diff: 2
+Success rate (last 20): 0.30
+Ep 291 | Dist: 0.1623 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 292 | Dist: 0.0647 | Success: True | Diff: 2
+Success rate (last 20): 0.30
+Ep 293 | Dist: 0.1786 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 294 | Dist: 0.1143 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 295 | Dist: 0.1845 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 296 | Dist: 0.0694 | Success: True | Diff: 2
+Success rate (last 20): 0.35
+Ep 297 | Dist: 0.0654 | Success: True | Diff: 2
+Success rate (last 20): 0.35
+Ep 298 | Dist: 0.1039 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 299 | Dist: 0.1246 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 300 | Dist: 0.1339 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 301 | Dist: 0.1009 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 302 | Dist: 0.0673 | Success: True | Diff: 2
+Success rate (last 20): 0.35
+Ep 303 | Dist: 0.0930 | Success: False | Diff: 2
+Success rate (last 20): 0.40
+Ep 304 | Dist: 0.0698 | Success: True | Diff: 2
+Success rate (last 20): 0.40
+Ep 305 | Dist: 0.1720 | Success: False | Diff: 2
+Success rate (last 20): 0.40
+Ep 306 | Dist: 0.1173 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 307 | Dist: 0.1779 | Success: False | Diff: 2
+Success rate (last 20): 0.40
+Ep 308 | Dist: 0.0688 | Success: True | Diff: 2
+Success rate (last 20): 0.40
+Ep 309 | Dist: 0.0676 | Success: True | Diff: 2
+Success rate (last 20): 0.35
+Ep 310 | Dist: 0.1676 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 311 | Dist: 0.1560 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 312 | Dist: 0.2712 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 313 | Dist: 0.1452 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 314 | Dist: 0.2050 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 315 | Dist: 0.2043 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 316 | Dist: 0.0684 | Success: True | Diff: 2
+Success rate (last 20): 0.25
+Ep 317 | Dist: 0.2032 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 318 | Dist: 0.1723 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 319 | Dist: 0.2130 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 320 | Dist: 0.2320 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 321 | Dist: 0.0676 | Success: True | Diff: 2
+Success rate (last 20): 0.25
+Ep 322 | Dist: 0.1497 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 323 | Dist: 0.1168 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 324 | Dist: 0.2320 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 325 | Dist: 0.1397 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 326 | Dist: 0.1916 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 327 | Dist: 0.0665 | Success: True | Diff: 2
+Success rate (last 20): 0.20
+Ep 328 | Dist: 0.1341 | Success: False | Diff: 2
+Success rate (last 20): 0.15
+Ep 329 | Dist: 0.2004 | Success: False | Diff: 2
+Success rate (last 20): 0.15
+Ep 330 | Dist: 0.1330 | Success: False | Diff: 2
+Success rate (last 20): 0.15
+Ep 331 | Dist: 0.1834 | Success: False | Diff: 2
+Success rate (last 20): 0.15
+Ep 332 | Dist: 0.1493 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 333 | Dist: 0.0673 | Success: True | Diff: 2
+Success rate (last 20): 0.25
+Ep 334 | Dist: 0.0682 | Success: True | Diff: 2
+Success rate (last 20): 0.30
+Ep 335 | Dist: 0.0658 | Success: True | Diff: 2
+Success rate (last 20): 0.25
+Ep 336 | Dist: 0.1488 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 337 | Dist: 0.1547 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 338 | Dist: 0.2040 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 339 | Dist: 0.0690 | Success: True | Diff: 2
+Success rate (last 20): 0.30
+Ep 340 | Dist: 0.1070 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 341 | Dist: 0.1437 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 342 | Dist: 0.1787 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 343 | Dist: 0.0919 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 344 | Dist: 0.1570 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 345 | Dist: 0.1588 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 346 | Dist: 0.0679 | Success: True | Diff: 2
+Success rate (last 20): 0.30
+Ep 347 | Dist: 0.0689 | Success: True | Diff: 2
+Success rate (last 20): 0.30
+Ep 348 | Dist: 0.1992 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 349 | Dist: 0.2045 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 350 | Dist: 0.3895 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 351 | Dist: 0.3641 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 352 | Dist: 0.2301 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 353 | Dist: 0.1794 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 354 | Dist: 0.2010 | Success: False | Diff: 2
+Success rate (last 20): 0.15
+Ep 355 | Dist: 0.4605 | Success: False | Diff: 2
+Success rate (last 20): 0.15
+Ep 356 | Dist: 0.1352 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 357 | Dist: 0.0666 | Success: True | Diff: 2
+Success rate (last 20): 0.25
+Ep 358 | Dist: 0.0686 | Success: True | Diff: 2
+Success rate (last 20): 0.20
+Ep 359 | Dist: 0.2876 | Success: False | Diff: 2
+Success rate (last 20): 0.20
+Ep 360 | Dist: 0.1468 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 361 | Dist: 0.0663 | Success: True | Diff: 2
+Success rate (last 20): 0.25
+Ep 362 | Dist: 0.0999 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 363 | Dist: 0.2866 | Success: False | Diff: 2
+Success rate (last 20): 0.25
+Ep 364 | Dist: 0.1175 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 365 | Dist: 0.0678 | Success: True | Diff: 2
+Success rate (last 20): 0.30
+Ep 366 | Dist: 0.0696 | Success: True | Diff: 2
+Success rate (last 20): 0.25
+Ep 367 | Dist: 0.1250 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 368 | Dist: 0.0699 | Success: True | Diff: 2
+Success rate (last 20): 0.30
+Ep 369 | Dist: 0.1438 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 370 | Dist: 0.1557 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 371 | Dist: 0.1287 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 372 | Dist: 0.1074 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 373 | Dist: 0.1332 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 374 | Dist: 0.0652 | Success: True | Diff: 2
+Success rate (last 20): 0.40
+Ep 375 | Dist: 0.0658 | Success: True | Diff: 2
+Success rate (last 20): 0.40
+Ep 376 | Dist: 0.2266 | Success: False | Diff: 2
+Success rate (last 20): 0.40
+Ep 377 | Dist: 0.0659 | Success: True | Diff: 2
+Success rate (last 20): 0.40
+Ep 378 | Dist: 0.0684 | Success: True | Diff: 2
+Success rate (last 20): 0.40
+Ep 379 | Dist: 0.1679 | Success: False | Diff: 2
+Success rate (last 20): 0.45
+Ep 380 | Dist: 0.0683 | Success: True | Diff: 2
+Success rate (last 20): 0.45
+Ep 381 | Dist: 0.0682 | Success: True | Diff: 2
+Success rate (last 20): 0.50
+Ep 382 | Dist: 0.0673 | Success: True | Diff: 2
+Success rate (last 20): 0.55
+Ep 383 | Dist: 0.0690 | Success: True | Diff: 2
+Success rate (last 20): 0.60
+Ep 384 | Dist: 0.0685 | Success: True | Diff: 2
+Success rate (last 20): 0.60
+Ep 385 | Dist: 0.0657 | Success: True | Diff: 2
+Success rate (last 20): 0.55
+Ep 386 | Dist: 0.0999 | Success: False | Diff: 2
+Success rate (last 20): 0.60
+Ep 387 | Dist: 0.0695 | Success: True | Diff: 2
+Success rate (last 20): 0.55
+Ep 388 | Dist: 0.1224 | Success: False | Diff: 2
+Success rate (last 20): 0.60
+Ep 389 | Dist: 0.0648 | Success: True | Diff: 2
+Success rate (last 20): 0.60
+Ep 390 | Dist: 0.2165 | Success: False | Diff: 2
+Success rate (last 20): 0.60
+Ep 391 | Dist: 0.0928 | Success: False | Diff: 2
+Success rate (last 20): 0.60
+Ep 392 | Dist: 0.1372 | Success: False | Diff: 2
+Success rate (last 20): 0.60
+Ep 393 | Dist: 0.0858 | Success: False | Diff: 2
+Success rate (last 20): 0.55
+Ep 394 | Dist: 0.1138 | Success: False | Diff: 2
+Success rate (last 20): 0.50
+Ep 395 | Dist: 0.1075 | Success: False | Diff: 2
+Success rate (last 20): 0.55
+Ep 396 | Dist: 0.0645 | Success: True | Diff: 2
+Success rate (last 20): 0.50
+Ep 397 | Dist: 0.2780 | Success: False | Diff: 2
+Success rate (last 20): 0.50
+Ep 398 | Dist: 0.0682 | Success: True | Diff: 2
+Success rate (last 20): 0.50
+Ep 399 | Dist: 0.1780 | Success: False | Diff: 2
+Success rate (last 20): 0.45
+Ep 400 | Dist: 0.1396 | Success: False | Diff: 2
+Success rate (last 20): 0.45
+Ep 401 | Dist: 0.0686 | Success: True | Diff: 2
+Success rate (last 20): 0.45
+Ep 402 | Dist: 0.0650 | Success: True | Diff: 2
+Success rate (last 20): 0.45
+Ep 403 | Dist: 0.0694 | Success: True | Diff: 2
+Success rate (last 20): 0.40
+Ep 404 | Dist: 0.1583 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 405 | Dist: 0.1210 | Success: False | Diff: 2
+Success rate (last 20): 0.35
+Ep 406 | Dist: 0.1706 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 407 | Dist: 0.1411 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 408 | Dist: 0.1824 | Success: False | Diff: 2
+Success rate (last 20): 0.30
+Ep 409 | Dist: 0.0601 | Success: True | Diff: 2
+Success rate (last 20): 0.35
+Ep 410 | Dist: 0.0668 | Success: True | Diff: 2
+Success rate (last 20): 0.40
+Ep 411 | Dist: 0.0659 | Success: True | Diff: 2
+Success rate (last 20): 0.45
+Ep 412 | Dist: 0.0687 | Success: True | Diff: 2
+Success rate (last 20): 0.45
+Ep 413 | Dist: 0.0918 | Success: False | Diff: 2
+Success rate (last 20): 0.45
+Ep 414 | Dist: 0.0984 | Success: False | Diff: 2
+Success rate (last 20): 0.50
+Ep 415 | Dist: 0.0652 | Success: True | Diff: 2
+Success rate (last 20): 0.50
+Ep 416 | Dist: 0.0672 | Success: True | Diff: 2
+Success rate (last 20): 0.55
+Ep 417 | Dist: 0.0658 | Success: True | Diff: 2
+Success rate (last 20): 0.55
+Ep 418 | Dist: 0.0682 | Success: True | Diff: 2
+Success rate (last 20): 0.60
+Ep 419 | Dist: 0.0688 | Success: True | Diff: 2
+Success rate (last 20): 0.65
+Ep 420 | Dist: 0.0699 | Success: True | Diff: 2
+Success rate (last 20): 0.60
+Ep 421 | Dist: 0.1926 | Success: False | Diff: 2
+Success rate (last 20): 0.60
+Ep 422 | Dist: 0.0681 | Success: True | Diff: 2
+Success rate (last 20): 0.55
+Ep 423 | Dist: 0.0842 | Success: False | Diff: 2
+Success rate (last 20): 0.60
+Ep 424 | Dist: 0.0692 | Success: True | Diff: 2
+Success rate (last 20): 0.60
+Ep 425 | Dist: 0.1175 | Success: False | Diff: 2
+Success rate (last 20): 0.60
+Ep 426 | Dist: 0.1657 | Success: False | Diff: 2
+Success rate (last 20): 0.65
+Ep 427 | Dist: 0.0658 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 428 | Dist: 0.0669 | Success: True | Diff: 2
+Success rate (last 20): 0.65
+Ep 429 | Dist: 0.0916 | Success: False | Diff: 2
+Success rate (last 20): 0.65
+Ep 430 | Dist: 0.0685 | Success: True | Diff: 2
+Success rate (last 20): 0.65
+Ep 431 | Dist: 0.0638 | Success: True | Diff: 2
+Success rate (last 20): 0.65
+Ep 432 | Dist: 0.0690 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 433 | Dist: 0.0700 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 434 | Dist: 0.2157 | Success: False | Diff: 2
+Success rate (last 20): 0.70
+Ep 435 | Dist: 0.0690 | Success: True | Diff: 2
+Success rate (last 20): 0.65
+Ep 436 | Dist: 0.1978 | Success: False | Diff: 2
+Success rate (last 20): 0.60
+Ep 437 | Dist: 0.1808 | Success: False | Diff: 2
+Success rate (last 20): 0.60
+Ep 438 | Dist: 0.0687 | Success: True | Diff: 2
+Success rate (last 20): 0.60
+Ep 439 | Dist: 0.0653 | Success: True | Diff: 2
+Success rate (last 20): 0.55
+Ep 440 | Dist: 0.2205 | Success: False | Diff: 2
+Success rate (last 20): 0.55
+Ep 441 | Dist: 0.3154 | Success: False | Diff: 2
+Success rate (last 20): 0.55
+Ep 442 | Dist: 0.0655 | Success: True | Diff: 2
+Success rate (last 20): 0.60
+Ep 443 | Dist: 0.0657 | Success: True | Diff: 2
+Success rate (last 20): 0.60
+Ep 444 | Dist: 0.0691 | Success: True | Diff: 2
+Success rate (last 20): 0.65
+Ep 445 | Dist: 0.0656 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 446 | Dist: 0.0695 | Success: True | Diff: 2
+Success rate (last 20): 0.65
+Ep 447 | Dist: 0.1890 | Success: False | Diff: 2
+Success rate (last 20): 0.65
+Ep 448 | Dist: 0.0683 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 449 | Dist: 0.0676 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 450 | Dist: 0.0650 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 451 | Dist: 0.0670 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 452 | Dist: 0.0643 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 453 | Dist: 0.0694 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 454 | Dist: 0.2125 | Success: False | Diff: 2
+Success rate (last 20): 0.65
+Ep 455 | Dist: 0.1477 | Success: False | Diff: 2
+Success rate (last 20): 0.65
+Ep 456 | Dist: 0.1692 | Success: False | Diff: 2
+Success rate (last 20): 0.70
+Ep 457 | Dist: 0.0653 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 458 | Dist: 0.0641 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 459 | Dist: 0.0670 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 460 | Dist: 0.2234 | Success: False | Diff: 2
+Success rate (last 20): 0.75
+Ep 461 | Dist: 0.0669 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 462 | Dist: 0.2276 | Success: False | Diff: 2
+Success rate (last 20): 0.70
+Ep 463 | Dist: 0.0689 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 464 | Dist: 0.0671 | Success: True | Diff: 2
+Success rate (last 20): 0.65
+Ep 465 | Dist: 0.0935 | Success: False | Diff: 2
+Success rate (last 20): 0.65
+Ep 466 | Dist: 0.0685 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 467 | Dist: 0.0666 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 468 | Dist: 0.0652 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 469 | Dist: 0.0698 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 470 | Dist: 0.0677 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 471 | Dist: 0.0698 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 472 | Dist: 0.0690 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 473 | Dist: 0.0657 | Success: True | Diff: 2
+Success rate (last 20): 0.75
+Ep 474 | Dist: 0.0681 | Success: True | Diff: 2
+Success rate (last 20): 0.75
+Ep 475 | Dist: 0.1105 | Success: False | Diff: 2
+Success rate (last 20): 0.75
+Ep 476 | Dist: 0.1351 | Success: False | Diff: 2
+Success rate (last 20): 0.75
+Ep 477 | Dist: 0.0677 | Success: True | Diff: 2
+Success rate (last 20): 0.75
+Ep 478 | Dist: 0.0693 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 479 | Dist: 0.1580 | Success: False | Diff: 2
+Success rate (last 20): 0.75
+Ep 480 | Dist: 0.0687 | Success: True | Diff: 2
+Success rate (last 20): 0.75
+Ep 481 | Dist: 0.0660 | Success: True | Diff: 2
+Success rate (last 20): 0.80
+Ep 482 | Dist: 0.0686 | Success: True | Diff: 2
+Success rate (last 20): 0.80
+Ep 483 | Dist: 0.0656 | Success: True | Diff: 2
+Success rate (last 20): 0.80
+Ep 484 | Dist: 0.0669 | Success: True | Diff: 2
+Success rate (last 20): 0.85
+Ep 485 | Dist: 0.0682 | Success: True | Diff: 2
+Success rate (last 20): 0.80
+Ep 486 | Dist: 0.1574 | Success: False | Diff: 2
+Success rate (last 20): 0.75
+Ep 487 | Dist: 0.1103 | Success: False | Diff: 2
+Success rate (last 20): 0.75
+Ep 488 | Dist: 0.0679 | Success: True | Diff: 2
+Success rate (last 20): 0.75
+Ep 489 | Dist: 0.0625 | Success: True | Diff: 2
+Success rate (last 20): 0.75
+Ep 490 | Dist: 0.0666 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 491 | Dist: 0.2794 | Success: False | Diff: 2
+Success rate (last 20): 0.70
+Ep 492 | Dist: 0.0694 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 493 | Dist: 0.0696 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 494 | Dist: 0.0691 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 495 | Dist: 0.1514 | Success: False | Diff: 2
+Success rate (last 20): 0.75
+Ep 496 | Dist: 0.0700 | Success: True | Diff: 2
+Success rate (last 20): 0.75
+Ep 497 | Dist: 0.0652 | Success: True | Diff: 2
+Success rate (last 20): 0.70
+Ep 498 | Dist: 0.0841 | Success: False | Diff: 2
+Success rate (last 20): 0.75
+Ep 499 | Dist: 0.0676 | Success: True | Diff: 2
+(venv) PS D:\PROJECTS\ROBOTS\rl_robot> 
