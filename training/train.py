@@ -12,7 +12,7 @@ def train():
     # -------- Setup --------
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
-    env = KukaEnv(render=False)
+    env = KukaEnv(render=True)
 
     state_dim = 20
     action_dim = 7

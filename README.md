@@ -121,7 +121,7 @@ A PyBullet simulation video demonstrating the learned policy will be added here.
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/deep-rl-sac.git
+git clone https://github.com/Abhi-creator1/deep-rl-sac.git
 cd deep-rl-sac
 
 python -m venv venv
@@ -168,5 +168,3 @@ MIT License
 ## 👤 Author
 
 Abhishek Thakur
-
-```

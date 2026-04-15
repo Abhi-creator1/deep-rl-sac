@@ -21,6 +21,8 @@ class KukaEnv:
         self.action_scale = 0.2
         self.difficulty = 0  # 0: easy, 1: medium, 2: hard
 
+        self.target_visual = None  # NEW
+
         self.reset()
 
     # ---------------- RESET ----------------
@@ -41,27 +43,44 @@ class KukaEnv:
 
         self.step_counter = 0
 
-        # Sample target (start easy)
+        # Sample target
         self.target_pos = self._sample_target()
 
+        # -------- CREATE TARGET VISUAL --------
+        self._create_target_visual()
+
         return self._get_state()
+
+    # ---------------- TARGET VISUAL ----------------
+    def _create_target_visual(self):
+        visual_shape = p.createVisualShape(
+            shapeType=p.GEOM_SPHERE,
+            radius=0.03,
+            rgbaColor=[1, 0, 0, 1]  # red
+        )
+
+        self.target_visual = p.createMultiBody(
+            baseMass=0,
+            baseVisualShapeIndex=visual_shape,
+            basePosition=self.target_pos
+        )
 
     # ---------------- TARGET ----------------
     def _sample_target(self):
 
-        if self.difficulty == 0:  # SAFE EASY
+        if self.difficulty == 0:  # EASY
             x_range = (0.45, 0.5)
-            y_range = (0.2, 0.2)
+            y_range = (0.4, 0.4)
             z_range = (0.5, 0.5)
 
         elif self.difficulty == 1:  # MEDIUM
             x_range = (0.4, 0.5)
-            y_range = (0.2, 0.3)
+            y_range = (0.3, 0.4)
             z_range = (0.4, 0.45)
 
         else:  # HARD
             x_range = (0.3, 0.5)
-            y_range = (0.1, 0.4)
+            y_range = (0.3, 0.4)
             z_range = (0.4, 0.5)
 
         return np.array([
@@ -89,13 +108,12 @@ class KukaEnv:
         ])
 
         return state
-    
 
     # ---------------- STEP ----------------
     def step(self, action):
         action = np.clip(action, -1, 1)
 
-        # Apply action (delta joint control)
+        # Apply action
         for i in range(self.num_joints):
             current_angle = p.getJointState(self.robot, i)[0]
             target_angle = current_angle + action[i] * self.action_scale
@@ -115,16 +133,25 @@ class KukaEnv:
 
         self.step_counter += 1
 
-        # Get new state
+        # Get state
         state = self._get_state()
 
-        # Compute reward
         ee_pos = state[14:17]
         distance = np.linalg.norm(ee_pos - self.target_pos)
 
+        # -------- DEBUG LINE (TCP → TARGET) --------
+        if self.render:
+            p.addUserDebugLine(
+                lineFromXYZ=ee_pos,
+                lineToXYZ=self.target_pos,
+                lineColorRGB=[0, 1, 0],
+                lifeTime=0.1
+            )
+
+        # Reward
         reward = -distance * 2.0
 
-        # Success condition
+        # Done condition
         done = False
         if distance < 0.07:
             reward += 10.0
@@ -134,7 +161,8 @@ class KukaEnv:
             done = True
 
         return state, reward, done, {"distance": distance}
-    
+
+    # ---------------- CURRICULUM ----------------
     def update_difficulty(self, success_rate):
         if self.difficulty == 0 and success_rate > 0.5:
             self.difficulty = 1
