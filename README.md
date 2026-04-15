@@ -110,7 +110,11 @@ $$
 
 ## 🎥 Simulation
 
-A PyBullet simulation video demonstrating the learned policy will be added here.
+## Demo
+
+![Simulation Preview Pybullet](results/Simulation_Demo.gif)
+
+[Full Video](results/Simulation_C.mp4)
 
 ---
 
