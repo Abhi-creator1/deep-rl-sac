@@ -114,13 +114,8 @@ $$
 
 ![Simulation Preview Pybullet](results/Simulation_Demo.gif)
 
-[Full Video](results/Simulation_C.mp4)
+[Full Video](results/Simulation.mp4)
 
----
-
-## 📁 Project Structure
-
----
 
 ## 🛠️ Installation
 
